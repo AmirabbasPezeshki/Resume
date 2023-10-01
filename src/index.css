@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    background-color: black;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(0, 0, 0); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: aqua; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: aqua; 
+  }
